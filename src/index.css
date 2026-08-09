@@ -1,0 +1,94 @@
+@import "tailwindcss";
+
+@layer base {
+  .light {
+    color-scheme: light;
+    background-color: #f8fafc !important;
+    color: #0f172a !important;
+  }
+
+  .light .bg-slate-950,
+  .light .bg-slate-950\/80,
+  .light .bg-slate-950\/60,
+  .light .bg-slate-950\/90,
+  .light .bg-slate-950\/85 {
+    background-color: #ffffff !important;
+  }
+
+  .light .bg-slate-900,
+  .light .bg-slate-900\/80,
+  .light .bg-slate-900\/60,
+  .light .bg-slate-900\/90,
+  .light .bg-slate-900\/50 {
+    background-color: #f8fafc !important;
+  }
+
+  .light .bg-slate-850,
+  .light .bg-slate-800,
+  .light .bg-slate-800\/80,
+  .light .bg-slate-800\/60 {
+    background-color: #f1f5f9 !important;
+  }
+
+  .light .from-indigo-950\/90,
+  .light .from-indigo-950,
+  .light .from-slate-950,
+  .light .from-slate-900 {
+    --tw-gradient-from: #eef2ff !important;
+  }
+
+  .light .via-slate-900,
+  .light .via-slate-950 {
+    --tw-gradient-via: #f8fafc !important;
+  }
+
+  .light .to-purple-950\/80,
+  .light .to-purple-950,
+  .light .to-indigo-950 {
+    --tw-gradient-to: #faf5ff !important;
+  }
+
+  .light .border-slate-800,
+  .light .border-slate-800\/80,
+  .light .border-slate-800\/60,
+  .light .border-slate-900,
+  .light .border-slate-700,
+  .light .border-slate-700\/80 {
+    border-color: #cbd5e1 !important;
+  }
+
+  .light .border-indigo-500\/30,
+  .light .border-indigo-500\/50 {
+    border-color: #818cf8 !important;
+  }
+
+  .light .text-slate-100 {
+    color: #0f172a !important;
+  }
+
+  .light .text-slate-200 {
+    color: #1e293b !important;
+  }
+
+  .light .text-slate-300 {
+    color: #334155 !important;
+  }
+
+  .light .text-slate-400 {
+    color: #475569 !important;
+  }
+
+  .light .text-slate-500 {
+    color: #64748b !important;
+  }
+
+  .light input,
+  .light select,
+  .light textarea {
+    background-color: #ffffff !important;
+    color: #0f172a !important;
+    border-color: #cbd5e1 !important;
+  }
+}
+
+

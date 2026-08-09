@@ -1,0 +1,6 @@
+{
+  "name": "Heroic Saga Engine",
+  "description": "Transform real life stories, family milestones, and personal adventures into interactive Hero's Journey PWAs, graphic novels, picture books, and motion storyboards.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}

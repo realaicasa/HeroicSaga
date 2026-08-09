@@ -1,0 +1,17 @@
+{
+  "short_name": "HeroJourney",
+  "name": "Hero's Journey App Engine — Interactive Life Adventure PWA",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚔️</text></svg>",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml"
+    }
+  ],
+  "start_url": "/",
+  "background_color": "#020617",
+  "theme_color": "#4f46e5",
+  "display": "standalone",
+  "orientation": "portrait",
+  "description": "Turn your real-life memories, family milestones, personal skills, and life challenges into a personalized, cinematic Hero's Journey PWA."
+}
